@@ -1,1 +1,5 @@
-Hello code girl!
+#include <stdio.h>
+
+void main(){
+    printf("Hello World!\n");
+}
